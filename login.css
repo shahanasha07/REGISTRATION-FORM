@@ -1,0 +1,23 @@
+.main-box{
+    width: 32%;
+    height: 270px;
+    background: ghostwhite;
+    margin-left: 236px;
+    padding-left: 200px;
+    padding-top: 47px;
+    padding-bottom: 45px;
+    
+}
+
+
+
+.button{
+    width: 140px;
+    height: 35px;
+    background-color: green;
+    color: white;
+    margin-left: -25px;
+    margin-top: 7px;
+    border: none;
+    font-size: larger;
+}
